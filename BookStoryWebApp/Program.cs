@@ -1,3 +1,5 @@
+using BookStoryWebApp.Models;
+
 namespace BookStoryWebApp
 {
     public class Program
@@ -8,9 +10,11 @@ namespace BookStoryWebApp
 
             // Add services to the container.
             builder.Services.AddRazorPages();
-
+            builder.Services.AddDbContext<StoryDBContext>();
+            builder.Services.AddSession(x => { x.IdleTimeout = TimeSpan.FromSeconds(10); });
+            builder.Services.AddHttpContextAccessor();
             var app = builder.Build();
-
+            app.UseSession();
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
