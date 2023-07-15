@@ -5,6 +5,190 @@
       "PackagePath": "staticwebassets\\BookStoryWebApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\1.jpeg",
+      "PackagePath": "staticwebassets\\StoriesImage\\1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\11-am-binh.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\11-am-binh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\Architecture.png",
+      "PackagePath": "staticwebassets\\StoriesImage\\Architecture.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\ai-tong-mat-quoc.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\ai-tong-mat-quoc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\anh-hung-xa-dieu.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\anh-hung-xa-dieu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\celia-potter.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\celia-potter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\cua-tiem-co-quai.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\cua-tiem-co-quai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\dao-hai-tac_1552224567.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\dao-hai-tac_1552224567.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\dau-pha-chi-xuyen-qua-chi-vi-cac-nguoi.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\dau-pha-chi-xuyen-qua-chi-vi-cac-nguoi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\diagram.drawio (3).png",
+      "PackagePath": "staticwebassets\\StoriesImage\\diagram.drawio (3).png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\giang-ho-da-vu-thap-nien-dang.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\giang-ho-da-vu-thap-nien-dang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\kiem-vuc-vo-dich.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\kiem-vuc-vo-dich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\lien-quan-mobile-cuoc-chien-voi-de-che-thay-ma-phan-1.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\lien-quan-mobile-cuoc-chien-voi-de-che-thay-ma-phan-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\loc-dinh-ky.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\loc-dinh-ky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\logo.png",
+      "PackagePath": "staticwebassets\\StoriesImage\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\long-bao-nhi.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\long-bao-nhi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\long-hon-hanh-gia.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\long-hon-hanh-gia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\lop-hoc-kinh-di.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\lop-hoc-kinh-di.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\mong-giang-ho.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\mong-giang-ho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\naruto_1552225598.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\naruto_1552225598.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\one-piece.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\one-piece.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\onepunch-man_1552232163.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\onepunch-man_1552232163.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\pham-nhan-ta-le-phi-vu-thuoc-tinh-tu-tien.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\pham-nhan-ta-le-phi-vu-thuoc-tinh-tu-tien.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\phu-thuy-hang-dau.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\phu-thuy-hang-dau.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\quay-ve-ben-anh-em-nhe.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\quay-ve-ben-anh-em-nhe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\quyen-than.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\quyen-than.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\so-tay-tam-ly-toi-pham.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\so-tay-tam-ly-toi-pham.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\star-half.png",
+      "PackagePath": "staticwebassets\\StoriesImage\\star-half.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\star-off.png",
+      "PackagePath": "staticwebassets\\StoriesImage\\star-off.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\star-on.png",
+      "PackagePath": "staticwebassets\\StoriesImage\\star-on.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\ta-du-ky.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\ta-du-ky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\tam-quoc-dien-nghia.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\tam-quoc-dien-nghia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\tay-du-ky.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\tay-du-ky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\than-dieu-hiep-lu.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\than-dieu-hiep-lu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\thanh-lap-cong-hoa-nam-1400.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\thanh-lap-cong-hoa-nam-1400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\that-lao-kiem.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\that-lao-kiem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\thien-kieu-ngao-the.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\thien-kieu-ngao-the.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\thien-long-bat-bo_final-011.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\thien-long-bat-bo_final-011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\tieu-ngao-giang-ho.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\tieu-ngao-giang-ho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\tu-cam-thanh-nghin-le-mot-dem.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\tu-cam-thanh-nghin-le-mot-dem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\van-phong-tham-tu-nhi-lam-than.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\van-phong-tham-tu-nhi-lam-than.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\vo-thuong-tien-de.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\vo-thuong-tien-de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\xconvert.com.png",
+      "PackagePath": "staticwebassets\\StoriesImage\\xconvert.com.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\y-thien-do-long-ky.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\y-thien-do-long-ky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\y-thien-do-long-ky_-tap-1.u547.d20160401.t0909471.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\y-thien-do-long-ky_-tap-1.u547.d20160401.t0909471.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\StoriesImage\\yeu-than-thai-co-hac-long.jpg",
+      "PackagePath": "staticwebassets\\StoriesImage\\yeu-than-thai-co-hac-long.jpg"
+    },
+    {
       "Id": "C:\\Users\\admin\\Documents\\GitHub\\BookStoryWebApp\\BookStoryWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
